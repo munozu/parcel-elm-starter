@@ -3,9 +3,8 @@ port module Main exposing (main)
 import Browser
 import Css exposing (..)
 import Html
-import Html.Styled exposing (Html, div, fieldset, h1, label, option, p, select, text, toUnstyled)
-import Html.Styled.Attributes exposing (css, placeholder)
-import Html.Styled.Events exposing (onClick)
+import Html.Styled exposing (Html, div, h1, p, text, toUnstyled)
+import Html.Styled.Attributes exposing (css)
 
 
 main =
